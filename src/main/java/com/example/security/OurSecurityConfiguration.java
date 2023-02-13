@@ -13,6 +13,8 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true)
+//hi this is my information
+//hello this is for your information
 public class OurSecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 	
